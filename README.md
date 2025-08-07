@@ -1,6 +1,6 @@
  ## Oii, eu sou Vinicius Bremm Gadonski👋
-   **"Desenvolvedor FullStack"**
-- 🌱 AprendendoReact, NodeJs, JavaScript, Java, Mysql
+   **"Analista de Dados"**
+- 🌱 Aprendendo cada vez mais sobre Analise de dados
 - 📫 Contate-me no Whatsapp: 41 99893-2279
 - 😄 Pronouns: he/him
 
@@ -46,14 +46,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
           
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 <img 
     align="left" 
     alt="Bootstrap"
