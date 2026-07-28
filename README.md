@@ -1,5 +1,5 @@
  ## Oii, eu sou Vinicius Bremm Gadonski👋
-   **"Analista de Dados"**
+   **"**
 - 🌱 Aprendendo cade vez mais sobre programação
 - 📫 Contate-me no Whatsapp: 41 99893-2279
 - 😄 Pronouns: he/him
