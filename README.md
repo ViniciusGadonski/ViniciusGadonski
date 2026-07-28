@@ -2,8 +2,7 @@
 
 🎓 Estudante e apaixonado por tecnologia.  
 🌱 Atualmente aprendendo e evoluindo cada vez mais em programação.  
-🐍 Estudando Python e aprimorando meus conhecimentos em desenvolvimento.  
-📊 Explorando análise de dados com Power BI.
+📊 Estudando Python e aprimorando meus conhecimentos em desenvolvimento.  
 
 ## 📫 Contato
 
