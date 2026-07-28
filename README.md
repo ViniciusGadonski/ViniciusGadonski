@@ -30,7 +30,14 @@
   <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Power BI" title="Power BI" width="40px" src="https://cdn.simpleicons.org/powerbi/F2C811"/>
+ <img
+  align="left"
+  alt="Power BI"
+  title="Power BI"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://img.icons8.com/color/48/power-bi.png"
+/>
 </p>
 
 ---
